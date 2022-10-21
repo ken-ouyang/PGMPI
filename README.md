@@ -12,7 +12,7 @@ Set up the conda environment:
 conda env create -f environment.yml
 conda activate pgmpi 
 ```
-Prepare the data: **Download** the [sample scene]() and unzip it in the project folder. Start training:
+Prepare the data: **Download** the [sample scene](https://hkustconnect-my.sharepoint.com/:u:/g/personal/houyangab_connect_ust_hk/Ebd2kZRZL7xDo-YilSyIIB4BSkYEG6DjqIVUMYUZ0N6CDg?e=53REQe) and unzip it in the project folder. Start training:
 ```shell
 sh train.sh
 ```
