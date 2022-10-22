@@ -1,6 +1,6 @@
 # Real-Time Neural Character Rendering with Pose-Guided Multiplane Images (ECCV 2022) 
 
-### [Project Page](https://ken-ouyang.github.io/cmpi/index.html) | [Video](https://www.youtube.com/watch?v=otL3UAak7wQ) | [Paper](https://arxiv.org/abs/2204.11820) | [Dynamic MVS Data]()
+### [Project Page](https://ken-ouyang.github.io/cmpi/index.html) | [Video](https://www.youtube.com/watch?v=otL3UAak7wQ) | [Paper](https://arxiv.org/abs/2204.11820) | [Dynamic MVS Data](https://hkustconnect-my.sharepoint.com/:u:/g/personal/houyangab_connect_ust_hk/EZ_w1wUORJpHo1W1arGuL-QBoAr7WojoCOqsPMXQYk7h3Q?e=XrFuae)
 
 
 [![PGMPI](https://imgur.com/e7e4VRg.png)](https://i.imgur.com/e7e4VRg.png)
